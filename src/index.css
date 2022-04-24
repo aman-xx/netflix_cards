@@ -44,8 +44,14 @@
     padding: 6px;
     height: 220px;
     width: 220px;
+    
+    
   }
-  
+   .card img{    
+     border-radius: 13px;
+   }
+   
+
   .button {
     display: flex;
     justify-content: space-evenly;
